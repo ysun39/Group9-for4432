@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprAltSpike_0",
-    "path": "sprites/sprAltSpike_0/sprAltSpike_0.yy",
+    "name": "eb3ec06c_c899_4893_9e02_df2636dcb990",
+    "path": "sprites/eb3ec06c_c899_4893_9e02_df2636dcb990/eb3ec06c_c899_4893_9e02_df2636dcb990.yy",
   },
   "spriteMaskId": null,
   "visible": true,

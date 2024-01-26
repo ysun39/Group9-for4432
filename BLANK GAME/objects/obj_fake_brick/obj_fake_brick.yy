@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprBreakableBlock_0",
-    "path": "sprites/sprBreakableBlock_0/sprBreakableBlock_0.yy",
+    "name": "_14d52b14_bc07_4171_a690_181e0066de73",
+    "path": "sprites/_14d52b14_bc07_4171_a690_181e0066de73/_14d52b14_bc07_4171_a690_181e0066de73.yy",
   },
   "spriteMaskId": null,
   "visible": true,
