@@ -8,7 +8,7 @@ if (place_meeting(x, y+2, obj_ground))
 	jumptime=2;
 
 }
-	if (keyboard_check_pressed(vk_lshift)&&jumptime!=0){
+	if (keyboard_check_pressed(vk_space)&&jumptime!=0){
 		jumptime-=1;
 	move_y = -jump_speed;
 	}
