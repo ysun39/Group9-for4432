@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "_14d52b14_bc07_4171_a690_181e0066de73",
-    "path": "sprites/_14d52b14_bc07_4171_a690_181e0066de73/_14d52b14_bc07_4171_a690_181e0066de73.yy",
+    "name": "_043d3650_4380_4c9d_ac73_3aa93696aed1",
+    "path": "sprites/_043d3650_4380_4c9d_ac73_3aa93696aed1/_043d3650_4380_4c9d_ac73_3aa93696aed1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
