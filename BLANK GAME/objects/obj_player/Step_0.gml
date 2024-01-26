@@ -22,6 +22,12 @@ if (move_x != 0) image_xscale = sign(move_x);
 if (move_y>max_vspeed){move_y=max_vspeed;}
 
 
+if (y > room_height) {
+    room_goto(rm_gameover);
+}
+
+
+
 
 
 

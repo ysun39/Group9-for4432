@@ -1,5 +1,5 @@
 move_speed = 3;
-jump_speed = 10;
+jump_speed = 13;
 jumptime=2;
 max_vspeed=9;
 
