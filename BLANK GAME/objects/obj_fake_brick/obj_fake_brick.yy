@@ -1,9 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_spike",
+  "name": "obj_fake_brick",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,13 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-<<<<<<< HEAD
-    "name": "spr_spike_up",
-    "path": "sprites/spr_spike_up/spr_spike_up.yy",
-=======
-    "name": "eb3ec06c_c899_4893_9e02_df2636dcb990",
-    "path": "sprites/eb3ec06c_c899_4893_9e02_df2636dcb990/eb3ec06c_c899_4893_9e02_df2636dcb990.yy",
->>>>>>> e4911c8531feebbe5d39c49baf758c90867ed8f9
+    "name": "_043d3650_4380_4c9d_ac73_3aa93696aed1",
+    "path": "sprites/_043d3650_4380_4c9d_ac73_3aa93696aed1/_043d3650_4380_4c9d_ac73_3aa93696aed1.yy",
   },
   "spriteMaskId": null,
   "visible": true,

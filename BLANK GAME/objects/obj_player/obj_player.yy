@@ -5,7 +5,10 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+<<<<<<< HEAD
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+=======
+>>>>>>> e4911c8531feebbe5d39c49baf758c90867ed8f9
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -30,8 +33,13 @@
   "properties": [],
   "solid": false,
   "spriteId": {
+<<<<<<< HEAD
     "name": "spr_player_idle",
     "path": "sprites/spr_player_idle/spr_player_idle.yy",
+=======
+    "name": "playerIdel",
+    "path": "sprites/playerIdel/playerIdel.yy",
+>>>>>>> e4911c8531feebbe5d39c49baf758c90867ed8f9
   },
   "spriteMaskId": null,
   "visible": true,

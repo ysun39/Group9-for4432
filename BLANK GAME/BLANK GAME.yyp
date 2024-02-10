@@ -27,7 +27,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+<<<<<<< HEAD
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"PlayerSound","folderPath":"folders/Sounds/PlayerSound.yy",},
+=======
+>>>>>>> e4911c8531feebbe5d39c49baf758c90867ed8f9
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -36,6 +39,7 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+<<<<<<< HEAD
     {"id":{"name":"snd_player_jump_press","path":"sounds/snd_player_jump_press/snd_player_jump_press.yy",},},
     {"id":{"name":"spr_player_jump","path":"sprites/spr_player_jump/spr_player_jump.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
@@ -58,6 +62,22 @@
     {"id":{"name":"obj_blood","path":"objects/obj_blood/obj_blood.yy",},},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
     {"id":{"name":"spr_player_idle","path":"sprites/spr_player_idle/spr_player_idle.yy",},},
+=======
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
+    {"id":{"name":"eb3ec06c_c899_4893_9e02_df2636dcb990","path":"sprites/eb3ec06c_c899_4893_9e02_df2636dcb990/eb3ec06c_c899_4893_9e02_df2636dcb990.yy",},},
+    {"id":{"name":"obj_fake_brick","path":"objects/obj_fake_brick/obj_fake_brick.yy",},},
+    {"id":{"name":"restart","path":"sprites/restart/restart.yy",},},
+    {"id":{"name":"__global_object_depths","path":"scripts/__global_object_depths/__global_object_depths.yy",},},
+    {"id":{"name":"_043d3650_4380_4c9d_ac73_3aa93696aed1","path":"sprites/_043d3650_4380_4c9d_ac73_3aa93696aed1/_043d3650_4380_4c9d_ac73_3aa93696aed1.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},},
+    {"id":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
+    {"id":{"name":"obj_restart_button","path":"objects/obj_restart_button/obj_restart_button.yy",},},
+    {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
+    {"id":{"name":"playerIdel","path":"sprites/playerIdel/playerIdel.yy",},},
+>>>>>>> e4911c8531feebbe5d39c49baf758c90867ed8f9
     {"id":{"name":"rm_room1","path":"rooms/rm_room1/rm_room1.yy",},},
   ],
   "RoomOrderNodes": [

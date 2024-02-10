@@ -2,10 +2,14 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_bullet",
+<<<<<<< HEAD
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
+=======
+  "eventList": [],
+>>>>>>> e4911c8531feebbe5d39c49baf758c90867ed8f9
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -29,8 +33,13 @@
   "properties": [],
   "solid": false,
   "spriteId": {
+<<<<<<< HEAD
     "name": "spr_bullet",
     "path": "sprites/spr_bullet/spr_bullet.yy",
+=======
+    "name": "Sprite1",
+    "path": "sprites/Sprite1/Sprite1.yy",
+>>>>>>> e4911c8531feebbe5d39c49baf758c90867ed8f9
   },
   "spriteMaskId": null,
   "visible": true,

@@ -28,8 +28,13 @@
   "properties": [],
   "solid": false,
   "spriteId": {
+<<<<<<< HEAD
     "name": "spr_restart",
     "path": "sprites/spr_restart/spr_restart.yy",
+=======
+    "name": "restart",
+    "path": "sprites/restart/restart.yy",
+>>>>>>> e4911c8531feebbe5d39c49baf758c90867ed8f9
   },
   "spriteMaskId": null,
   "visible": true,
