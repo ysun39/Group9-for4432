@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite3",
-    "path": "sprites/Sprite3/Sprite3.yy",
+    "name": "spr_iron_block",
+    "path": "sprites/spr_iron_block/spr_iron_block.yy",
   },
   "spriteMaskId": null,
   "visible": true,
