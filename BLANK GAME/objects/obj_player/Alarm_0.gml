@@ -1,6 +1,0 @@
-can_shoot=true;
-
-
-
-
-
